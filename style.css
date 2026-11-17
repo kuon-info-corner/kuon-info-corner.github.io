@@ -806,10 +806,6 @@ body.modal-open .settings-panel {
   outline-offset: 2px;
 }
 
-.sp-cards {
-  overflow: hidden;
-}
-
 .side-panel-img.img-in-left {
   animation: imgInLeft 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
