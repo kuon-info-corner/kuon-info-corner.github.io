@@ -66,26 +66,26 @@ const idols = [{
   name: `Eichi Tenshouin`,
   avatar: `images/btn-tenshouin_eichi.webp`,
   borderColor: "#FFF3B8",
-  startDate: `2026-02-14`,
-  description: "Special Scout",
-  detailsDescription: "(Bonds That Change Reality) Eichi Tenshouin",
-  unbloomedThumb: "icons/card_square2_4704_normal.webp",
-  bloomedThumb: "icons/card_square2_4704_evolution.webp",
-  unbloomedImage: "cards2/card_rectangle2_4704_normal.webp",
-  bloomedImage: "cards2/card_rectangle2_4704_evolution.webp"
+  startDate: `2026-09-29`,
+  description: "Megashpere Match Scout",
+  detailsDescription: "(Destined Virtuoso) Eichi Tenshouin",
+  unbloomedThumb: "icons/card_square2_4944_normal.webp",
+  bloomedThumb: "icons/card_square2_4944_evolution.webp",
+  unbloomedImage: "cards2/card_rectangle2_4944_normal.webp",
+  bloomedImage: "cards2/card_rectangle2_4944_evolution.webp"
 },
 {
   id: 2,
   name: `Wataru Hibiki`,
   avatar: `images/btn-hibiki_wataru.webp`,
   borderColor: "#A1D8E2",
-  startDate: `2025-05-25`,
-  description: "Cross Scout",
-  detailsDescription: "(Canister Cowboy) Wataru Hibiki",
-  unbloomedThumb: 'icons/card_square2_4377_normal.webp',
-  bloomedThumb: 'icons/card_square2_4377_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4377_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4377_evolution.webp'
+  startDate: `2026-05-15`,
+  description: "Unit Event",
+  detailsDescription: "(Ruler of the Rose Garden) Wataru Hibiki",
+  unbloomedThumb: 'icons/card_square2_4842_normal.webp',
+  bloomedThumb: 'icons/card_square2_4842_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4842_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4842_evolution.webp'
 },
 {
   id: 3,
@@ -93,7 +93,7 @@ const idols = [{
   avatar: `images/btn-himemiya_tori.webp`,
   borderColor: "#F5B2B2",
   startDate: `2026-03-30`,
-  description: "Tour Event",
+  description: "Theme Scout",
   detailsDescription: "(Decorated Memories) Tori Himemiya",
   unbloomedThumb: 'icons/card_square2_4752_normal.webp',
   bloomedThumb: 'icons/card_square2_4752_evolution.webp',
@@ -131,39 +131,39 @@ const idols = [{
   name: `Subaru Akehoshi`,
   avatar: `images/btn-akehoshi_subaru.webp`,
   borderColor: "#F3981D",
-  startDate: `2026-04-15`,
-  description: "Large Scale Event",
-  detailsDescription: "(ONLY STAR) Subaru Akehoshi",
-  unbloomedThumb: 'icons/card_square2_4756_normal.webp',
-  bloomedThumb: 'icons/card_square2_4756_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4756_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4756_evolution.webp'
+  startDate: `2026-09-10`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(Ever-Growing Dazzle) Subaru Akehoshi",
+  unbloomedThumb: 'icons/card_square2_4927_normal.webp',
+  bloomedThumb: 'icons/card_square2_4927_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4927_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4927_evolution.webp'
 },
 {
   id: 7,
   name: `Makoto Yuuki`,
   avatar: `images/btn-yuuki_makoto.webp`,
   borderColor: "#65AB31",
-  startDate: `2025-12-31`,
-  description: "Tour Event",
-  detailsDescription: "(Diamond Hope) Makoto Yuuki",
-  unbloomedThumb: 'icons/card_square2_4645_normal.webp',
-  bloomedThumb: 'icons/card_square2_4645_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4645_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4645_evolution.webp'
+  startDate: `2026-05-30`,
+  description: "Megasphere Match Scout",
+  detailsDescription: "(Star's Game of Chase) Makoto Yuuki",
+  unbloomedThumb: 'icons/(Star\'s_Game_of_Chase)_Makoto_Yuuki_M_Mini.webp',
+  bloomedThumb: 'icons/(Star\'s_Game_of_Chase)_Makoto_Yuuki_M_Mini_Bloomed.webp',
+  unbloomedImage: 'cards2/(Star\'s_Game_of_Chase)_Makoto_Yuuki_M.webp',
+  bloomedImage: 'cards2/(Star\'s_Game_of_Chase)_Makoto_Yuuki_M_Bloomed.webp'
 },
 {
   id: 8,
   name: `Mao Isara`,
   avatar: `images/btn-isara_mao.webp`,
   borderColor: "#941F57",
-  startDate: `2025-10-25`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(Moving Beyond Expectations) Mao Isara",
-  unbloomedThumb: 'icons/card_square2_4525_normal.webp',
-  bloomedThumb: 'icons/card_square2_4525_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4525_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4525_evolution.webp'
+  startDate: `2026-10-14`,
+  description: "Theme Scout",
+  detailsDescription: "(The Pursuit of Food) Mao Isara",
+  unbloomedThumb: 'icons/card_square2_4954_normal.webp',
+  bloomedThumb: 'icons/card_square2_4954_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4954_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4954_evolution.webp'
 },
 {
   id: 9,
@@ -183,26 +183,26 @@ const idols = [{
   name: `Midori Takamine`,
   avatar: `images/btn-takamine_midori.webp`,
   borderColor: "#00533F",
-  startDate: `2025-10-30`,
-  description: "Theme Scout",
-  detailsDescription: "(Guardian of Peace) Midori Takamine",
-  unbloomedThumb: 'icons/card_square2_4542_normal.webp',
-  bloomedThumb: 'icons/card_square2_4542_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4542_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4542_evolution.webp'
+  startDate: `2026-10-31`,
+  description: "Megasphere Match Tour Event",
+  detailsDescription: "(Shooting Star's Motivation) Midori Takamine",
+  unbloomedThumb: 'icons/card_square2_4961_normal.webp',
+  bloomedThumb: 'icons/card_square2_4961_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4961_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4961_evolution.webp'
 },
 {
   id: 11,
   name: `Shinobu Sengoku`,
   avatar: `images/btn-sengoku_shinobu.webp`,
   borderColor: "#FFDC00",
-  startDate: `2025-09-25`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(The Charm of Perseverance) Shinobu Sengoku",
-  unbloomedThumb: 'icons/card_square2_4496_normal.webp',
-  bloomedThumb: 'icons/card_square2_4496_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4496_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4496_evolution.webp'
+  startDate: `2026-08-15`,
+  description: "Unit Event",
+  detailsDescription: "(Cleaving Flash of Light) Shinobu Sengoku",
+  unbloomedThumb: 'icons/card_square2_4907_normal.webp',
+  bloomedThumb: 'icons/card_square2_4907_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4907_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4907_evolution.webp'
 },
 {
   id: 12,
@@ -211,7 +211,7 @@ const idols = [{
   borderColor: "#E60033",
   startDate: `2026-04-14`,
   description: "Theme Scout",
-  detailsDescription: "[次世代の任務] Chiaki Morisawa",
+  detailsDescription: "(New-Generation Mission) Chiaki Morisawa",
   unbloomedThumb: 'icons/card_square2_4762_normal.webp',
   bloomedThumb: 'icons/card_square2_4762_evolution.webp',
   unbloomedImage: 'cards2/card_rectangle2_4762_normal.webp',
@@ -248,13 +248,13 @@ const idols = [{
   name: `Aira Shiratori`,
   avatar: `images/btn-shiratori_aira.webp`,
   borderColor: "#FFF1CF",
-  startDate: `2025-04-14`,
-  description: "Cross Scout",
-  detailsDescription: "(Path to Becoming an ACE) Aira Shiratori",
-  unbloomedThumb: 'icons/card_square2_4319_normal.webp',
-  bloomedThumb: 'icons/card_square2_4319_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4319_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4319_evolution.webp'
+  startDate: `2026-08-30`,
+  description: "Megashpere Match Scout",
+  detailsDescription: "(Soldier's Adversity) Aira Shiratori",
+  unbloomedThumb: 'icons/card_square2_4924_normal.webp',
+  bloomedThumb: 'icons/card_square2_4924_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4924_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4924_evolution.webp'
 },
 {
   id: 16,
@@ -287,13 +287,13 @@ const idols = [{
   name: `Nagisa Ran`,
   avatar: `images/btn-ran_nagisa.webp`,
   borderColor: "#A73836",
-  startDate: `2025-08-30`,
-  description: "Theme Scout",
-  detailsDescription: "(The Beginning of Mythos) Nagisa Ran",
-  unbloomedThumb: 'icons/card_square2_4476_normal.webp',
-  bloomedThumb: 'icons/card_square2_4476_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4476_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4476_evolution.webp'
+  startDate: `2026-10-25`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(The Passion of Pursuit) Nagisa Ran",
+  unbloomedThumb: 'icons/card_square2_4958_normal.webp',
+  bloomedThumb: 'icons/card_square2_4958_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4958_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4958_evolution.webp'
 },
 {
   id: 19,
@@ -326,65 +326,65 @@ const idols = [{
   name: `Jun Sazanami`,
   avatar: `images/btn-sazanami_jun.webp`,
   borderColor: "#192F60",
-  startDate: `2025-05-14`,
-  description: "Cross Scout",
-  detailsDescription: "(Showdown Crisis) Jun Sazanami",
-  unbloomedThumb: 'icons/card_square2_4360_normal.webp',
-  bloomedThumb: 'icons/card_square2_4360_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4360_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4360_evolution.webp'
+  startDate: `2026-07-14`,
+  description: "Theme Scout",
+  detailsDescription: "(Breezy BEATS) Jun Sazanami",
+  unbloomedThumb: 'icons/card_square2_4891_normal.webp',
+  bloomedThumb: 'icons/card_square2_4891_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4891_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4891_evolution.webp'
 },
 {
   id: 22,
   name: `Shu Itsuki`,
   avatar: `images/btn-itsuki_shu.webp`,
   borderColor: "#E3ACAE",
-  startDate: `2025-12-15`,
-  description: "Unit Event",
-  detailsDescription: "(A Needle's Tip of Passion) Shu Itsuki",
-  unbloomedThumb: 'icons/card_square2_4632_normal.webp',
-  bloomedThumb: 'icons/card_square2_4632_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4632_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4632_evolution.webp'
+  startDate: `2026-06-25`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(Noir Couture) Shu Itsuki",
+  unbloomedThumb: 'icons/card_square2_4873_normal.webp',
+  bloomedThumb: 'icons/card_square2_4873_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4873_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4873_evolution.webp'
 },
 {
   id: 23,
   name: `Mika Kagehira`,
   avatar: `images/btn-kagehira_mika.webp`,
   borderColor: "#006A6C",
-  startDate: `2026-02-27`,
-  description: "Theme Scout",
-  detailsDescription: "(Keeper of the Music Box) Mika Kagehira",
-  unbloomedThumb: 'icons/card_square2_4720_normal.webp',
-  bloomedThumb: 'icons/card_square2_4720_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4720_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4720_evolution.webp'
+  startDate: `2026-07-31`,
+  description: "Megashpere Match Tour Event",
+  detailsDescription: "(Valkyrie's Heartbeat) Mika Kagehira",
+  unbloomedThumb: 'icons/card_square2_4898_normal.webp',
+  bloomedThumb: 'icons/card_square2_4898_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4898_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4898_evolution.webp'
 },
 {
   id: 24,
   name: `Hinata Aoi`,
   avatar: `images/btn-aoi_hinata.webp`,
   borderColor: "#EB6EA0",
-  startDate: `2025-05-10`,
-  description: "Cross Scout",
-  detailsDescription: "(Resolute Crisis) Hinata Aoi",
-  unbloomedThumb: 'icons/card_square2_4357_normal.webp',
-  bloomedThumb: 'icons/card_square2_4357_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4357_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4357_evolution.webp'
+  startDate: `2026-07-15`,
+  description: "Unit Event",
+  detailsDescription: "(Splash You Can't Miss) Hinata Aoi",
+  unbloomedThumb: 'icons/card_square2_4887_normal.webp',
+  bloomedThumb: 'icons/card_square2_4887_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4887_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4887_evolution.webp'
 },
 {
   id: 25,
   name: `Yuta Aoi`,
   avatar: `images/btn-aoi_yuta.webp`,
   borderColor: "#00A1E9",
-  startDate: `2025-11-25`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(A Longing Star) Yuta Aoi",
-  unbloomedThumb: 'icons/card_square2_4559_normal.webp',
-  bloomedThumb: 'icons/card_square2_4559_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4559_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4559_evolution.webp'
+  startDate: `2026-10-30`,
+  description: "Megasphere Match Scout",
+  detailsDescription: "(Strong-Willed Twin Star) Yuta Aoi",
+  unbloomedThumb: 'icons/card_square2_4965_normal.webp',
+  bloomedThumb: 'icons/card_square2_4965_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4965_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4965_evolution.webp'
 },
 {
   id: 26,
@@ -404,26 +404,26 @@ const idols = [{
   name: `HiMERU`,
   avatar: `images/btn-himeru.webp`,
   borderColor: "#89C3EB",
-  startDate: `2025-04-25`,
-  description: "Cross Scout",
-  detailsDescription: "(Front-Back Ambivalence) HiMERU",
-  unbloomedThumb: 'icons/card_square2_4346_normal.webp',
-  bloomedThumb: 'icons/card_square2_4346_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4346_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4346_evolution.webp'
+  startDate: `2026-09-25`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(Passion Poured In) HiMERU",
+  unbloomedThumb: 'icons/card_square2_4938_normal.webp',
+  bloomedThumb: 'icons/card_square2_4938_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4938_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4938_evolution.webp'
 },
 {
   id: 28,
   name: `Kohaku Oukawa`,
   avatar: `images/btn-oukawa_kohaku.webp`,
   borderColor: "#F4B3C2",
-  startDate: `2025-09-10`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(My Own Distance) Kohaku Oukawa",
-  unbloomedThumb: 'icons/card_square2_4480_normal.webp',
-  bloomedThumb: 'icons/card_square2_4480_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4480_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4480_evolution.webp'
+  startDate: `2026-09-11`,
+  description: "Theme Scout",
+  detailsDescription: "(Maid's Hospitality) Kohaku Oukawa",
+  unbloomedThumb: 'icons/card_square2_4934_normal.webp',
+  bloomedThumb: 'icons/card_square2_4934_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4934_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4934_evolution.webp'
 },
 {
   id: 29,
@@ -469,13 +469,13 @@ const idols = [{
   name: `Koga Ogami`,
   avatar: `images/btn-ogami_koga.webp`,
   borderColor: "#C9CACA",
-  startDate: `2025-12-31`,
-  description: "Tour Event",
-  detailsDescription: "(Diamond Ambition) Koga Ogami",
-  unbloomedThumb: 'icons/card_square2_4646_normal.webp',
-  bloomedThumb: 'icons/card_square2_4646_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4646_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4646_evolution.webp'
+  startDate: `2026-09-15`,
+  description: "Unit Event",
+  detailsDescription: "(Chasing Soul) Koga Ogami",
+  unbloomedThumb: 'icons/card_square2_4930_normal.webp',
+  bloomedThumb: 'icons/card_square2_4930_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4930_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4930_evolution.webp'
 },
 {
   id: 33,
@@ -521,39 +521,39 @@ const idols = [{
   name: `Mitsuru Tenma`,
   avatar: `images/btn-tenma_mitsuru.webp`,
   borderColor: "#ED6D35",
-  startDate: `2025-06-25`,
-  description: "Cross Scout",
-  detailsDescription: "(Rising Star of All Trades) Mitsuru Tenma",
-  unbloomedThumb: 'icons/card_square2_4402_normal.webp',
-  bloomedThumb: 'icons/card_square2_4402_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4402_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4402_evolution.webp'
+  startDate: `2026-11-15`,
+  description: "Unit Event",
+  detailsDescription: "() Mitsuru Tenma",
+  unbloomedThumb: 'icons/card_square2_4xxx_normal.webp',
+  bloomedThumb: 'icons/card_square2_4xxx_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4xxx_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4xxx_evolution.webp'
 },
 {
   id: 37,
   name: `Hajime Shino`,
   avatar: `images/btn-shino_hajime.webp`,
   borderColor: "#CAB8D9",
-  startDate: `2025-07-14`,
-  description: "Theme Scout",
-  detailsDescription: "(Unbreakable Gaze) Hajime Shino",
-  unbloomedThumb: 'icons/card_square2_4437_normal.webp',
-  bloomedThumb: 'icons/card_square2_4437_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4437_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4437_evolution.webp'
+  startDate: `2026-06-30`,
+  description: "Megasphere Match Tour Event",
+  detailsDescription: "(Rabbit's Kindness) Hajime Shino",
+  unbloomedThumb: 'icons/card_square2_4876_normal.webp',
+  bloomedThumb: 'icons/card_square2_4876_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4876_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4876_evolution.webp'
 },
 {
   id: 38,
   name: `Keito Hasumi`,
   avatar: `images/btn-hasumi_keito.webp`,
   borderColor: "#316745",
-  startDate: `2025-12-14`,
-  description: "Theme Scout",
-  detailsDescription: "(Fake Dead) Keito Hasumi",
-  unbloomedThumb: 'icons/card_square2_4636_normal.webp',
-  bloomedThumb: 'icons/card_square2_4636_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4636_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4636_evolution.webp'
+  startDate: `2026-07-25`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "The Me I Have Yet to Discover) Keito Hasumi",
+  unbloomedThumb: 'icons/card_square2_4895_normal.webp',
+  bloomedThumb: 'icons/card_square2_4895_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4895_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4895_evolution.webp'
 },
 {
   id: 39,
@@ -573,52 +573,52 @@ const idols = [{
   name: `Souma Kanzaki`,
   avatar: `images/btn-kanzaki_souma.webp`,
   borderColor: "#5654A2",
-  startDate: `2025-09-30`,
-  description: "Unit Event",
-  detailsDescription: "(Butterfly That Seeks Freedom) Souma Kanzaki",
-  unbloomedThumb: 'icons/card_square2_4499_normal.webp',
-  bloomedThumb: 'icons/card_square2_4499_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4499_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4499_evolution.webp'
+  startDate: `2026-05-25`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(Path Adorned With Color) Souma Kanzaki",
+  unbloomedThumb: 'icons/card_square2_4850_normal.webp',
+  bloomedThumb: 'icons/card_square2_4850_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4850_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4850_evolution.webp'
 },
 {
   id: 41,
   name: `Ibuki Taki`,
   avatar: `images/btn-taki_ibuki.webp`,
   borderColor: "#66BBCC",
-  startDate: `2025-07-25`,
-  description: "Feature Scout 2",
-  detailsDescription: "(Spontaneous Daybreak) Ibuki Taki",
-  unbloomedThumb: 'icons/card_square2_4441_normal.webp',
-  bloomedThumb: 'icons/card_square2_4441_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4441_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4441_evolution.webp'
+  startDate: `2026-08-14`,
+  description: "Theme Scout",
+  detailsDescription: "(Trail Spirit) Ibuki Taki",
+  unbloomedThumb: 'icons/card_square2_4912_normal.webp',
+  bloomedThumb: 'icons/card_square2_4912_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4912_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4912_evolution.webp'
 },
 {
   id: 42,
   name: `Tsukasa Suou`,
   avatar: `images/btn-suou_tsukasa.webp`,
   borderColor: "#942343",
-  startDate: `2026-03-31`,
-  description: "Unit Event",
-  detailsDescription: "(Fingertips Reaching My Princess) Tsukasa Suou",
-  unbloomedThumb: 'icons/card_square2_4747_normal.webp',
-  bloomedThumb: 'icons/card_square2_4747_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4747_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4747_evolution.webp'
+  startDate: `2026-10-10`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(Weaponizing My Confidence) Tsukasa Suou",
+  unbloomedThumb: 'icons/card_square2_4947_normal.webp',
+  bloomedThumb: 'icons/card_square2_4947_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4947_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4947_evolution.webp'
 },
 {
   id: 43,
   name: `Leo Tsukinaga`,
   avatar: `images/btn-tsukinaga_leo.webp`,
   borderColor: "#EC6D51",
-  startDate: `2025-11-14`,
-  description: "Shuffle Scout",
-  detailsDescription: "(Go, Fight, ResQ) Leo Tsukinaga",
-  unbloomedThumb: 'icons/card_square2_4557_normal.webp',
-  bloomedThumb: 'icons/card_square2_4557_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4557_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4557_evolution.webp'
+  startDate: `2026-05-31`,
+  description: "Megasphere Match Tour Event",
+  detailsDescription: "(Knight's Seriousness) Leo Tsukinaga",
+  unbloomedThumb: 'icons/(Seriousness)_Leo_Tsukinaga_M_Mini.webp',
+  bloomedThumb: 'icons/(Seriousness)_Leo_Tsukinaga_M_Mini_Bloomed.webp',
+  unbloomedImage: 'cards2/(Seriousness)_Leo_Tsukinaga_M.webp',
+  bloomedImage: 'cards2/(Seriousness)_Leo_Tsukinaga_M_Bloomed.webp'
 },
 {
   id: 44,
@@ -638,78 +638,78 @@ const idols = [{
   name: `Ritsu Sakuma`,
   avatar: `images/btn-sakuma_ritsu.webp`,
   borderColor: "#001E43",
-  startDate: `2025-08-15`,
-  description: "Tour Event",
-  detailsDescription: "(FEARLESS BUNNY) Ritsu Sakuma",
-  unbloomedThumb: 'icons/card_square2_4460_normal.webp',
-  bloomedThumb: 'icons/card_square2_4460_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4460_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4460_evolution.webp'
+  startDate: `2026-08-10`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "(At a Pace Befitting of Me) Ritsu Sakuma",
+  unbloomedThumb: 'icons/card_square2_4904_normal.webp',
+  bloomedThumb: 'icons/card_square2_4904_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4904_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4904_evolution.webp'
 },
 {
   id: 46,
   name: `Arashi Narukami`,
   avatar: `images/btn-narukami_arashi.webp`,
   borderColor: "#EDDE7B",
-  startDate: `2025-09-29`,
-  description: "Theme Scout",
-  detailsDescription: "(Search Witch) Arashi Narukami",
-  unbloomedThumb: 'icons/card_square2_4503_normal.webp',
-  bloomedThumb: 'icons/card_square2_4503_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4503_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4503_evolution.webp'
+  startDate: `2026-11-10`,
+  description: "Bright me up!! Scout Stage",
+  detailsDescription: "() Arashi Narukami",
+  unbloomedThumb: 'icons/card_square2_4xxx_normal.webp',
+  bloomedThumb: 'icons/card_square2_4xxx_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4xxx_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4xxx_evolution.webp'
 },
 {
   id: 47,
   name: `Natsume Sakasaki`,
   avatar: `images/btn-sakasaki_natsume.webp`,
   borderColor: "#D70035",
-  startDate: `2025-05-31`,
-  description: "Unit Event",
-  detailsDescription: "(Connecting Dimensions and Worlds) Natsume Sakasaki",
-  unbloomedThumb: 'icons/card_square2_4383_normal.webp',
-  bloomedThumb: 'icons/card_square2_4383_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4383_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4383_evolution.webp'
+  startDate: `2026-06-14`,
+  description: "Theme Scout",
+  detailsDescription: "(Summer Spent Together) Natsume Sakasaki",
+  unbloomedThumb: 'icons/card_square2_4869_normal.webp',
+  bloomedThumb: 'icons/card_square2_4869_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4869_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4869_evolution.webp'
 },
 {
   id: 48,
   name: `Tsumugi Aoba`,
   avatar: `images/btn-aoba_tsumugi.webp`,
   borderColor: "#00608D",
-  startDate: `2025-06-10`,
-  description: "Cross Scout",
-  detailsDescription: "(Fairy's Pastime) Tsumugi Aoba",
-  unbloomedThumb: 'icons/card_square2_4387_normal.webp',
-  bloomedThumb: 'icons/card_square2_4387_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4387_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4387_evolution.webp'
+  startDate: `2026-08-31`,
+  description: "Megasphere Match Tour Event",
+  detailsDescription: "(Magician's Desire) Tsumugi Aoba",
+  unbloomedThumb: 'icons/card_square2_4920_normal.webp',
+  bloomedThumb: 'icons/card_square2_4920_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4920_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4920_evolution.webp'
 },
 {
   id: 49,
   name: `Sora Harukawa`,
   avatar: `images/btn-harukawa_sora.webp`,
   borderColor: "#FFF352",
-  startDate: `2025-10-10`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(Adding Up Smiles) Sora Harukawa",
-  unbloomedThumb: 'icons/card_square2_4507_normal.webp',
-  bloomedThumb: 'icons/card_square2_4507_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4507_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4507_evolution.webp'
+  startDate: `2026-11-14`,
+  description: "Theme Scout",
+  detailsDescription: "() Sora Harukawa",
+  unbloomedThumb: 'icons/card_square2_4975_normal.webp',
+  bloomedThumb: 'icons/card_square2_4975_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4975_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4975_evolution.webp'
 },
 {
   id: 50,
   name: `Madara Mikejima`,
   avatar: `images/btn-mikejima_madara.webp`,
   borderColor: "#622D18",
-  startDate: `2026-02-28`,
-  description: "Unit Event",
-  detailsDescription: "(Orbiting Future) Madara Mikejima",
-  unbloomedThumb: 'icons/card_square2_4716_normal.webp',
-  bloomedThumb: 'icons/card_square2_4716_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4716_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4716_evolution.webp'
+  startDate: `2026-09-30`,
+  description: "Megasphere Match Tour Event",
+  detailsDescription: "(Mama's Conviction) Madara Mikejima",
+  unbloomedThumb: 'icons/card_square2_4941_normal.webp',
+  bloomedThumb: 'icons/card_square2_4941_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4941_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4941_evolution.webp'
 },
 {
   id: 51,
@@ -729,39 +729,39 @@ const idols = [{
   name: `Kanna`,
   avatar: `images/btn-kanna.webp`,
   borderColor: "#8ACCB8",
-  startDate: `2025-09-15`,
-  description: "Unit Event",
-  detailsDescription: "(Unicorn's Smile) Kanna",
-  unbloomedThumb: 'icons/card_square2_4488_normal.webp',
-  bloomedThumb: 'icons/card_square2_4488_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4488_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4488_evolution.webp'
+  startDate: `2026-05-14`,
+  description: "Theme Scout",
+  detailsDescription: "(Logic Eye) Kanna",
+  unbloomedThumb: 'icons/card_square2_4846_normal.webp',
+  bloomedThumb: 'icons/card_square2_4846_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4846_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4846_evolution.webp'
 },
 {
   id: 53,
   name: `Yume`,
   avatar: `images/btn-yume.webp`,
   borderColor: "#CCADD9",
-  startDate: `2026-02-25`,
-  description: "Bright me up!! Scout Stage",
-  detailsDescription: "(Bullish at All Times) Yume",
-  unbloomedThumb: 'icons/card_square2_4708_normal.webp',
-  bloomedThumb: 'icons/card_square2_4708_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4708_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4708_evolution.webp'
+  startDate: `2026-06-29`,
+  description: "Megasphere Match Scout",
+  detailsDescription: "(Prince's Dream) Yume",
+  unbloomedThumb: 'icons/card_square2_4880_normal.webp',
+  bloomedThumb: 'icons/card_square2_4880_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4880_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4880_evolution.webp'
 },
 {
   id: 54,
   name: `Raika`,
   avatar: `images/btn-raika.webp`,
   borderColor: "#298C7C",
-  startDate: `2025-10-15`,
-  description: "Tour Event",
-  detailsDescription: "(Monstrous Performer) Raika",
-  unbloomedThumb: 'icons/card_square2_4516_normal.webp',
-  bloomedThumb: 'icons/card_square2_4516_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4516_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4516_evolution.webp'
+  startDate: `2026-10-15`,
+  description: "Unit Event",
+  detailsDescription: "(SWEET LIE) Raika",
+  unbloomedThumb: 'icons/card_square2_4950_normal.webp',
+  bloomedThumb: 'icons/card_square2_4950_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4950_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4950_evolution.webp'
 },
 {
   id: 55,
@@ -794,13 +794,13 @@ const idols = [{
   name: `Mashu Kuon`,
   avatar: `images/btn-kuon_mashu.webp`,
   borderColor: "#ec938c",
-  startDate: `2026-03-15`,
-  description: "-",
-  detailsDescription: "(Embellished With Words of Gratitude) Mashu Kuon",
-  unbloomedThumb: 'icons/card_square2_4734_normal.webp',
-  bloomedThumb: 'icons/card_square2_4734_evolution.webp',
-  unbloomedImage: 'cards2/card_rectangle2_4734_normal.webp',
-  bloomedImage: 'cards2/card_rectangle2_4734_evolution.webp'
+  startDate: `2026-07-30`,
+  description: "Megasphere Match Scout",
+  detailsDescription: "(Clown's Dear Affection) Mashu Kuon",
+  unbloomedThumb: 'icons/card_square2_4901_normal.webp',
+  bloomedThumb: 'icons/card_square2_4901_evolution.webp',
+  unbloomedImage: 'cards2/card_rectangle2_4901_normal.webp',
+  bloomedImage: 'cards2/card_rectangle2_4901_evolution.webp'
 },
 {
   id: 58,
@@ -817,64 +817,64 @@ const idols = [{
 }];
 
 const cardCountData = {
-  1: { five: 13, four: 15, three: 18 },
-  2: { five: 11, four: 15, three: 19 },
-  3: { five: 12, four: 16, three: 17 },
-  4: { five: 12, four: 16, three: 18 },
-  5: { five: 14, four: 14, three: 16 },
-  6: { five: 12, four: 16, three: 21 },
-  7: { five: 11, four: 18, three: 20 },
-  8: { five: 11, four: 17, three: 18 },
-  9: { five: 12, four: 17, three: 16 },
-  10: { five: 11, four: 15, three: 19 },
-  11: { five: 11, four: 17, three: 16 },
-  12: { five: 14, four: 15, three: 17 },
-  13: { five: 11, four: 17, three: 17 },
-  14: { five: 13, four: 15, three: 17 },
-  15: { five: 10, four: 15, three: 18 },
-  16: { five: 11, four: 16, three: 17 },
-  17: { five: 10, four: 16, three: 16 },
-  18: { five: 11, four: 13, three: 21 },
-  19: { five: 11, four: 15, three: 17 },
-  20: { five: 11, four: 14, three: 19 },
-  21: { five: 10, four: 17, three: 17 },
-  22: { five: 14, four: 15, three: 16 },
-  23: { five: 12, four: 15, three: 18 },
-  24: { five: 12, four: 17, three: 16 },
-  25: { five: 13, four: 16, three: 16 },
-  26: { five: 13, four: 14, three: 16 },
-  27: { five: 10, four: 16, three: 17 },
-  28: { five: 10, four: 19, three: 19 },
-  29: { five: 11, four: 16, three: 17 },
-  30: { five: 13, four: 18, three: 18 },
-  31: { five: 12, four: 14, three: 21 },
-  32: { five: 11, four: 18, three: 18 },
-  33: { five: 11, four: 16, three: 19 },
-  34: { five: 13, four: 13, three: 20 },
-  35: { five: 11, four: 15, three: 19 },
-  36: { five: 10, four: 16, three: 19 },
-  37: { five: 13, four: 16, three: 20 },
-  38: { five: 13, four: 14, three: 17 },
-  39: { five: 11, four: 17, three: 18 },
-  40: { five: 10, four: 17, three: 16 },
-  41: { five: 2, four: 5, three: 5 },
-  42: { five: 13, four: 15, three: 18 },
-  43: { five: 12, four: 17, three: 18 },
-  44: { five: 11, four: 17, three: 18 },
-  45: { five: 12, four: 18, three: 18 },
-  46: { five: 11, four: 18, three: 20 },
-  47: { five: 13, four: 15, three: 17 },
-  48: { five: 11, four: 16, three: 20 },
-  49: { five: 11, four: 17, three: 16 },
-  50: { five: 15, four: 16, three: 15 },
-  51: { five: 5, four: 4, three: 6 },
-  52: { five: 3, four: 5, three: 8 },
-  53: { five: 4, four: 5, three: 6 },
-  54: { five: 3, four: 5, three: 4 },
-  55: { five: 3, four: 0, three: 2 },
-  56: { five: 1, four: 2, three: 1 },
-  57: { five: 1, four: 1, three: 2 },
-  58: { five: 1, four: 1, three: 2 }
+  1: { five: 14, four: 16, three: 20 }, // Eichi
+  2: { five: 12, four: 17, three: 20 }, // Wataru
+  3: { five: 12, four: 17, three: 18 }, // Tori
+  4: { five: 12, four: 18, three: 19 }, // Yuzuru
+  5: { five: 14, four: 15, three: 19 }, // Hokuto
+  6: { five: 13, four: 18, three: 22 }, // Subaru
+  7: { five: 12, four: 19, three: 21 }, // Makoto
+  8: { five: 12, four: 19, three: 19 }, // Mao
+  9: { five: 12, four: 19, three: 19 }, // Tetora
+  10: { five: 12, four: 16, three: 20 },  // Midori
+  11: { five: 12, four: 18, three: 17 },  // Shinobu
+  12: { five: 14, four: 16, three: 19 },  // Chiaki
+  13: { five: 11, four: 19, three: 19 },  // Kanata
+  14: { five: 13, four: 17, three: 18 },  // Hiiro
+  15: { five: 12, four: 16, three: 18 },  // Aira
+  16: { five: 11, four: 19, three: 18 },  // Mayoi
+  17: { five: 10, four: 17, three: 18 },  // Tatsumi
+  18: { five: 12, four: 14, three: 22 },  // Nagisa
+  19: { five: 11, four: 17, three: 18 },  // Hiyori
+  20: { five: 12, four: 15, three: 22 },  // Ibara
+  21: { five: 12, four: 18, three: 19 },  // Jun
+  22: { five: 15, four: 18, three: 16 },  // Shu
+  23: { five: 13, four: 16, three: 18 },  // Mika
+  24: { five: 13, four: 19, three: 16 },  // Hinata
+  25: { five: 14, four: 19, three: 17 },  // Yuta
+  26: { five: 13, four: 16, three: 18 },  // Rinne
+  27: { five: 12, four: 17, three: 17 },  // HiMERU
+  28: { five: 11, four: 20, three: 21 },  // Kohaku
+  29: { five: 11, four: 19, three: 18 },  // Niki
+  30: { five: 13, four: 18, three: 19 },  // Rei
+  31: { five: 12, four: 16, three: 22 },  // Kaoru
+  32: { five: 12, four: 19, three: 22 },  // Koga
+  33: { five: 11, four: 18, three: 19 },  // Adonis
+  34: { five: 13, four: 16, three: 22 },  // Tomoya
+  35: { five: 11, four: 18, three: 21 },  // Nazuna
+  36: { five: 12, four: 17, three: 21 },  // Mitsuru
+  37: { five: 14, four: 16, three: 22 },  // Hajime
+  38: { five: 14, four: 16, three: 18 },  // Keito
+  39: { five: 11, four: 19, three: 21 },  // Kuro
+  40: { five: 11, four: 17, three: 18 },  // Souma
+  41: { five: 4, four: 6, three: 6 },     // Ibuki
+  42: { five: 14, four: 16, three: 20 },  // Tsukasa
+  43: { five: 13, four: 18, three: 18 },  // Leo
+  44: { five: 11, four: 19, three: 20 },  // Izumi
+  45: { five: 13, four: 19, three: 19 },  // Ritsu
+  46: { five: 12, four: 17, three: 21 },  // Arashi
+  47: { five: 14, four: 17, three: 17 },  // Natsume
+  48: { five: 13, four: 18, three: 21 },  // Tsumugi
+  49: { five: 12, four: 19, three: 17 },  // Sora
+  50: { five: 17, four: 18, three: 15 },  // Madara
+  51: { five: 5, four: 6, three: 10 },     // Esu
+  52: { five: 4, four: 7, three: 9 },     // Kanna
+  53: { five: 5, four: 8, three: 7 },     // Yume
+  54: { five: 5, four: 6, three: 6 },     // Raika
+  55: { five: 3, four: 2, three: 2 },     // Juis
+  56: { five: 1, four: 4, three: 2 },     // Nozomi
+  57: { five: 2, four: 2, three: 3 },     // Mashu
+  58: { five: 1, four: 2, three: 4 }      // Chitose
 };
 
 const imageCache = new Map();
